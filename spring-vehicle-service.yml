@@ -1,4 +1,4 @@
-spring-profile-service:
+spring-vehicle-service:
   property1: value1
 spring:
    datasource:

@@ -1,5 +1,7 @@
-spring-profile-service:
-  property1: value1
+spring-vehicle-service:
+  property1-dev: value11
+  property2-dev: value12
+  
 spring:
    datasource:
     url: jdbc:mysql://localhost:3306/sample2?createDatabaseIfNotExist=true
